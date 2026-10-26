@@ -1,0 +1,29 @@
+{
+ "note": "Excerpt of the CoinGecko tickers inside the RaptorX JUP report payload (tokenData.coingeckoData.tickers), 2026-10-26. total_volume.usd = 52337520",
+ "tickers": [
+  {
+   "market": "BitDelta",
+   "pair": "JUP/USDT",
+   "volume_base_units": 89952188.7,
+   "converted_volume_usd": 25367798,
+   "last": 0.2824,
+   "bid_ask_spread_percentage": 0.213295
+  },
+  {
+   "market": "BloFin",
+   "pair": "JUP/USDT",
+   "volume_base_units": 24121684.8,
+   "converted_volume_usd": 6802658,
+   "last": 0.2824,
+   "bid_ask_spread_percentage": 0.071098
+  },
+  {
+   "market": "Binance",
+   "pair": "JUP/USDT",
+   "volume_base_units": 6962054.2,
+   "converted_volume_usd": 1962008,
+   "last": 0.2822,
+   "bid_ask_spread_percentage": 0.035537
+  }
+ ]
+}
